@@ -1,3 +1,6 @@
+Username:user1,user2
+Password:pass1,pass2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
