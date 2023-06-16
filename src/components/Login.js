@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import bg from "../asset/bgImage.jpg";
 import { AiOutlinePhone } from "react-icons/ai";
 import Footer from "./Footer";
 import { Link } from "react-router-dom";
